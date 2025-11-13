@@ -1,4 +1,8 @@
+Proposto >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>IA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 # 👋 Olá! Eu sou Luiz Eduardo
+
+![Dev Digitando em frente a dois monitor.](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 
 ## 💼 Sobre mim
 
@@ -24,12 +28,13 @@ e todas as possibilidades que podemos fazer, tanto front quanto back.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats:
 
-![Luiz Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizinEduardo&show_icons=true&theme=radical)
+
 ![Luiz Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizinEduardo&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinEduardo&layout=compact&langs_count=7&theme=algolia)
 
