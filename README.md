@@ -2,7 +2,7 @@ Proposto >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>IA<<<<<<<<<<<<<<<<<<<<<<
 
 # 👋 Olá! Eu sou Luiz Eduardo
 
-![Dev Digitando em frente a dois monitor.](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+![Dev Digitando em frente a dois monitor.]([https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
 
 ## 💼 Sobre mim
 
