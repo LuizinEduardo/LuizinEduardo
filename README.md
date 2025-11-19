@@ -38,7 +38,7 @@ e todas as possibilidades que podemos fazer, tanto front quanto back.
 
 ## 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizeduardogferreira)(https://www.linkedin.com/in/luizeduardogferreira/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizeduardogferreira)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizinferrera@gmail.com)
 
 
