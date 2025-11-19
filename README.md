@@ -45,9 +45,3 @@ e todas as possibilidades que podemos fazer, tanto front quanto back.
 ---
 
 🌱 *"Sempre aprendendo algo novo!"*
-```
-
-
-
-
-
