@@ -31,8 +31,8 @@ e todas as possibilidades que podemos fazer, tanto front quanto back.
 ## 📊 GitHub Stats:
 
 
-![Luiz Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizinEduardo&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizinEduardo&layout=compact&langs_count=7&theme=algolia)
+![Luiz Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEduardo-FullDEV&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardo-FullDEV&layout=compact&langs_count=7&theme=algolia)
 
 ---
 
